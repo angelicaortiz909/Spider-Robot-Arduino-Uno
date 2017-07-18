@@ -31,7 +31,7 @@ Below is a breakdown of what each file is used for and how it will help in your 
 
 7) [spider-bluetooth.ino](../master/spider-bluetooth.ino)
 
-   This is the Arduino code for the spider robot *with* bluetooth capabilities. The functions of the robot can be controlled by downloading Bluetooth SPP Tools Pro or equivalent program. To learn more about adapting bluetooth capabilites, refer to the original spider robot bluetooth instructions and the links below for further assistance.
+   This is the Arduino code for the spider robot *with* bluetooth capabilities. The functions of the robot can be controlled by downloading Bluetooth SPP Tools Pro or equivalent program. To learn more about adapting bluetooth capabilites, refer to the original spider robot bluetooth instructions (http://www.instructables.com/id/DIY-Spider-Robot-PART-II-Remote-control/) and the links below for further assistance.
 
 8) [Fixing_avrdude:stk500_getsync_error.png](../masterFixing_avrdude:stk500_getsync_error.png)
 
