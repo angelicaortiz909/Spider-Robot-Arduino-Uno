@@ -33,6 +33,10 @@ This is the Arduino code for the spider robot *without* any bluetooth capabiliti
 
 This is the Arduino code for the spider robot *with* bluetooth capabilities. The functions of the robot can be controlled by downloading Bluetooth SPP Tools Pro or equivalent program. To learn more about adapting bluetooth capabilites, refer to the original spider robot bluetooth instructions and the links below for further assistance.
 
+#### Fixing avrdude/stk500_getsync error
+
+I kept having an error with the Arduino not uploading the code. If this happens to you, try downloading the driver above and/or following this tip.
+
 ### Additional Links:
 
 Bluetooth to Ardunio configuration guide: http://42bots.com/tutorials/hc-06-bluetooth-module-datasheet-and-configuration-with-arduino/
