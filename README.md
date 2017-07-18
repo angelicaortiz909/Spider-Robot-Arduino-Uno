@@ -27,10 +27,11 @@ Another library needed for the Arduino code.
 
 #### quad-spider-moving.ino
 
-This is the Arduino code for the spider robot **without** any bluetooth capabilities. The functions of the robot continually loop.
+This is the Arduino code for the spider robot *without* any bluetooth capabilities. The functions of the robot continually loop.
 
 #### spider-bluetooth.ino
-⋅⋅⋅This is the Arduino code for the spider robot **with** bluetooth capabilities. The functions of the robot can be controlled by downloading Bluetooth SPP Tools Pro or equivalent program. To learn more about adapting bluetooth capabilites, refer to the original spider robot bluetooth instructions and the links below for further assistance.
+
+This is the Arduino code for the spider robot *with* bluetooth capabilities. The functions of the robot can be controlled by downloading Bluetooth SPP Tools Pro or equivalent program. To learn more about adapting bluetooth capabilites, refer to the original spider robot bluetooth instructions and the links below for further assistance.
 
 ### Additional Links:
 
