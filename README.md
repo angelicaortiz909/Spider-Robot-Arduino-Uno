@@ -7,38 +7,35 @@ Below is a breakdown of what each file is used for and how it will help in your 
 
 1) [CH341SER_MAC.ZIP](../master/CH341SER_MAC.ZIP)
 
-⋅⋅⋅This driver download was useful when I encoutered this error when uploading the bluetooth code to the Arduino: "avrdude: ser_open(): can't open device "/dev/cu.mydev": Resource busy". If you encounter this, you can download this driver onto your Mac. If you are working on something other than a Mac, you can find its driver here by scrolling down under "Related information": http://www.wch.cn/download/CH341SER_MAC_ZIP.html. If you need more context about my issue, you can refer to this forum: https://arduino.stackexchange.com/questions/37981/osx-upload-error-avrdude-ser-open-cant-open-device-dev-cu-mydev-resou
-
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
+   This driver download was useful when I encoutered this error when uploading the bluetooth code to the Arduino: "avrdude: ser_open(): can't open device "/dev/cu.mydev": Resource busy". If you encounter this, you can download this driver onto your Mac. If you are working on something other than a Mac, you can find its driver here by scrolling down under "Related information": http://www.wch.cn/download/CH341SER_MAC_ZIP.html. If you need more context about my issue, you can refer to this forum: https://arduino.stackexchange.com/questions/37981/osx-upload-error-avrdude-ser-open-cant-open-device-dev-cu-mydev-resou
 
 2) [Serial_Command.zip](../master/Serial_Command.zip)
 
-This is one of the libraries needed for the Arduino code.
+   This is one of the libraries needed for the Arduino code.
 
 3) [Spider_no_bluetooth.fzz](../master/Spider_no_bluetooth.fzz)
 
-This is a Fritzing to show what is needed, placement of servos, breadboard layout, etc.
+   This is a Fritzing to show what is needed, placement of servos, breadboard layout, etc.
 
 4) [Spider_with_bluetooth.fzz](../master/Spider_with_bluetooth.fzz)
 
-This is a Fritzing to show what is needed, placement of servos, breadboard layout, etc. for use with a bluetooth module.
+   This is a Fritzing to show what is needed, placement of servos, breadboard layout, etc. for use with a bluetooth module.
 
 5) [flexitimer2-master.zip](../master/flexitimer2-master.zip)
 
-Another library needed for the Arduino code.
+   Another library needed for the Arduino code.
 
 6) [quad-spider-moving.ino](../master/quad-spider-moving.ino)
 
-This is the Arduino code for the spider robot *without* any bluetooth capabilities. The functions of the robot continually loop.
+   This is the Arduino code for the spider robot *without* any bluetooth capabilities. The functions of the robot continually loop.
 
 7) [spider-bluetooth.ino](../master/spider-bluetooth.ino)
 
-This is the Arduino code for the spider robot *with* bluetooth capabilities. The functions of the robot can be controlled by downloading Bluetooth SPP Tools Pro or equivalent program. To learn more about adapting bluetooth capabilites, refer to the original spider robot bluetooth instructions and the links below for further assistance.
+   This is the Arduino code for the spider robot *with* bluetooth capabilities. The functions of the robot can be controlled by downloading Bluetooth SPP Tools Pro or equivalent program. To learn more about adapting bluetooth capabilites, refer to the original spider robot bluetooth instructions and the links below for further assistance.
 
 8) [Fixing_avrdude:stk500_getsync_error.png](../masterFixing_avrdude:stk500_getsync_error.png)
 
-I kept having an error with the Arduino not uploading the code. If this happens to you, try downloading the driver above and/or following this tip I found on a forum online. If you would like to read the whole thread where I found the screenshot, you can find the forum at this link: https://forum.arduino.cc/index.php?topic=28223.30
+   I kept having an error with the Arduino not uploading the code. If this happens to you, try downloading the driver above and/or following this tip I found on a forum online. If you would like to read the whole thread where I found the screenshot, you can find the forum at this link: https://forum.arduino.cc/index.php?topic=28223.30
 
 ### Additional Links:
 
