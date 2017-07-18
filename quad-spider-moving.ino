@@ -1,4 +1,7 @@
 /* -----------------------------------------------------------------------------
+  - Edited by Angelica Ortiz for the purposes of clarifying certain unknowns from the original instructable project.
+  - Date: 7/18/2017
+   -----------------------------------------------------------------------------  
   - Project: Remote control Crawling robot
   - Author:  panerqiang@sunfounder.com
   - Date:  2015/1/27
