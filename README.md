@@ -35,7 +35,7 @@ This is the Arduino code for the spider robot *with* bluetooth capabilities. The
 
 #### Fixing avrdude/stk500_getsync error
 
-I kept having an error with the Arduino not uploading the code. If this happens to you, try downloading the driver above and/or following this tip I found on a forum online. If you would like to read the whole thread, you cna find the forum at this link: https://forum.arduino.cc/index.php?topic=28223.30
+I kept having an error with the Arduino not uploading the code. If this happens to you, try downloading the driver above and/or following this tip I found on a forum online. If you would like to read the whole thread where I found the screenshot, you can find the forum at this link: https://forum.arduino.cc/index.php?topic=28223.30
 
 ### Additional Links:
 
