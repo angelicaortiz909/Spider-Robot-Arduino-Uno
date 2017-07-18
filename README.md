@@ -21,7 +21,11 @@ This is a Fritzing to show what is needed, placement of servos, breadboard layou
 5) flexitimer2-master.zip
 Another library needed for the Arduino code.
 
-6) 
+6) quad-spider-moving.ino
+This is the Arduino code for the spider robot **without** any bluetooth capabilities. The functions of the robot continually loop.
+
+7) spider-bluetooth.ino
+This is the Arduino code for the spider robot **with** bluetooth capabilities. The functions of the robot continually loop.
 
 ### Additional Links:
 
