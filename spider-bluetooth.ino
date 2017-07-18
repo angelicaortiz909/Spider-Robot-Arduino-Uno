@@ -1,4 +1,7 @@
 /* -----------------------------------------------------------------------------
+  - Edited by Angelica Ortiz for the purposes of clarifying certain unknowns from the original instructable project
+  - Date: 7/18/2017
+   -----------------------------------------------------------------------------
   - Project: Remote control Crawling robot
   - Author:  panerqiang@sunfounder.com
   - Date:  2015/1/27
@@ -18,7 +21,7 @@
     2.comment ADJUST, uncomment VERIFY
     3.measure real sites and set to real_site[4][3], make and run
     4.comment VERIFY, make and run
-  The document describes in detail how to operate.
+  The document describes in detail how to operate.  
    ---------------------------------------------------------------------------*/
 
 // modified by Regis for spider project, 2015-09-26
