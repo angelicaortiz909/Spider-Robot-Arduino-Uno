@@ -1,4 +1,4 @@
-# Spider-Robot-Arduino-Uno-
+# Spider-Robot-Arduino-Uno
 ### Description: For the purpose of providing extra files and clarification for the original Quad Spider Robot instructable (http://www.instructables.com/id/DIY-Spider-RobotQuad-robot-Quadruped/)
 
 Hello wandering maker! As you may have found, there are some things that are missing, information wise, from the spider robot instructions. This repository is meant for people who are like how I was when I started this project and are confused about particular things, such as how to arrange the wires for breadboarding, how to use an Ardunio Uno instead of a Pro Mini, and how to configure the hardware for bluetooth usage.
