@@ -13,8 +13,7 @@ Below is a breakdown of what each file is used for and how it will help in your 
 
    This is one of the libraries needed for the Arduino code.
 
-3) Inline-style:
-![alt text](https://github.com/angelicaortiz909/Spider-Robot-Arduino-Uno/blob/master/Media/Spider%20Robot-Bluetooth/SpiderRobot-bare-notext.jpg =250x250)
+3) <img src="https://github.com/angelicaortiz909/Spider-Robot-Arduino-Uno/blob/master/Media/Spider%20Robot-Bluetooth/SpiderRobot-bare-notext.jpg" height="250" width="300"> </img>
 [Spider_no_bluetooth.fzz](../master/Spider_no_bluetooth.fzz)
 
    This is a Fritzing to show what is needed, placement of servos, breadboard layout, etc.
