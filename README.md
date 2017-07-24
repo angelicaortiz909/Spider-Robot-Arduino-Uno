@@ -44,5 +44,6 @@ Bluetooth to Arduino configuration guide: http://42bots.com/tutorials/hc-06-blue
 
 Bluetooth to Android configuration guide: http://42bots.com/tutorials/how-to-connect-arduino-uno-to-android-phone-via-bluetooth/
 
+
 Spider Robot in Action:
 https://youtu.be/9xDgPtKHPik?list=PLuz-GQZtyIjUuq_W8g9vByreekWgkh9nj
