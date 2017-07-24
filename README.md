@@ -31,7 +31,7 @@ Below is a breakdown of what each file is used for and how it will help in your 
    This is a Fritzing to show what is needed, placement of servos, breadboard layout, etc. for use with a bluetooth module.
 
    ![alt text](https://github.com/angelicaortiz909/Spider-Robot-Arduino-Uno/blob/master/Media/Spider_with_bluetooth_fritzing.jpg "Spider Robot Fritzing with Bluetooth")
-   
+
 
 7) [flexitimer2-master.zip](../master/flexitimer2-master.zip)
 
@@ -56,3 +56,5 @@ Bluetooth to Android configuration guide: http://42bots.com/tutorials/how-to-con
 
 Spider Robot in Action:
 https://youtu.be/Vyh3SaYLo_0?list=PLuz-GQZtyIjUuq_W8g9vByreekWgkh9nj
+
+Credit goes out to [Regis Hsu] (https://github.com/regishsu) for creating the original instructable, as well as [Donnie Plumly] (https://github.com/dplumly) and [Rob Edwards] (https://github.com/robertcedwards) for guiding me through the process of making this robot a reality.
