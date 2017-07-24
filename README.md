@@ -13,8 +13,7 @@ Below is a breakdown of what each file is used for and how it will help in your 
 
    This is one of the libraries needed for the Arduino code.
 
-3) <img src="https://github.com/angelicaortiz909/Spider-Robot-Arduino-Uno/blob/master/Media/Spider%20Robot-Bluetooth/SpiderRobot-bare-notext.jpg" height="200" width="250" rotate="270">
-[Spider_no_bluetooth.fzz](../master/Spider_no_bluetooth.fzz)
+3) [Spider_no_bluetooth.fzz](../master/Spider_no_bluetooth.fzz)
 
    This is a Fritzing to show what is needed, placement of servos, breadboard layout, etc.
 
@@ -44,3 +43,6 @@ Bluetooth to Arduino configuration guide: http://42bots.com/tutorials/hc-06-blue
 
 
 Bluetooth to Android configuration guide: http://42bots.com/tutorials/how-to-connect-arduino-uno-to-android-phone-via-bluetooth/
+
+Spider Robot in Action:
+https://youtu.be/9xDgPtKHPik?list=PLuz-GQZtyIjUuq_W8g9vByreekWgkh9nj
