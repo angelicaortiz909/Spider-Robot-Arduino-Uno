@@ -1,11 +1,13 @@
 # Spider Robot: Arduino Uno
-### Description: For the purpose of providing extra files and clarification for the original Quad Spider Robot instructable (http://www.instructables.com/id/DIY-Spider-RobotQuad-robot-Quadruped/)
+### Description: For the purpose of providing extra files and clarification for the original Quad Spider Robot Instructable (http://www.instructables.com/id/DIY-Spider-RobotQuad-robot-Quadruped/)
 
 Hello wandering maker! As you may have found, there are some things that are missing, information wise, from the spider robot instructions. This repository is meant for people who are like how I was when I started this project and are confused about particular things, such as how to arrange the wires for breadboarding, how to use an Arduino Uno instead of a Pro Mini, and how to configure the hardware for bluetooth usage.
 
 Below is a breakdown of what each file is used for and how it will help in your construction of the spider robot:
 
-1) [Media folder] (../master/Media)
+1) Media folder
+
+   This folder includes images that may be helpful to you as you build the robot. Images in the folder include the JPG of the Fritzings, the robot without Arduino connected, robot with everything connected, the control panel for the robot once bluetooth is enabled, and the setup for just the LED test setup to ensure that power is safely being fed to the Arduino.
 
 2) [CH341SER_MAC.ZIP](../master/CH341SER_MAC.ZIP)
 
