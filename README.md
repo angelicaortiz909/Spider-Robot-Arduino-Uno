@@ -13,11 +13,13 @@ Below is a breakdown of what each file is used for and how it will help in your 
 
    This is one of the libraries needed for the Arduino code.
 
-3) [Spider_no_bluetooth.fzz](../master/Spider_no_bluetooth.fzz)
+3) <img src="https://github.com/angelicaortiz909/Spider-Robot-Arduino-Uno/blob/master/Media/Spider%20Robot-Bluetooth/Spider_no_bluetooth_fritzing.jpg">  
+[Spider_no_bluetooth.fzz](../master/Spider_no_bluetooth.fzz)
 
    This is a Fritzing to show what is needed, placement of servos, breadboard layout, etc.
 
-4) [Spider_with_bluetooth.fzz](../master/Spider_with_bluetooth.fzz)
+4) <img src="https://github.com/angelicaortiz909/Spider-Robot-Arduino-Uno/blob/master/Media/Spider%20Robot-Bluetooth/Spider_with_bluetooth_fritzing.jpg">
+[Spider_with_bluetooth.fzz](../master/Spider_with_bluetooth.fzz)
 
    This is a Fritzing to show what is needed, placement of servos, breadboard layout, etc. for use with a bluetooth module.
 
