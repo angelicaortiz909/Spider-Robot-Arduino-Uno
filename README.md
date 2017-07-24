@@ -5,13 +5,13 @@ Hello wandering maker! As you may have found, there are some things that are mis
 
 Below is a breakdown of what each file is used for and how it will help in your construction of the spider robot:
 
-1) [Media] (../master/Media)
+1) [Media folder] (../master/Media)
 
 2) [CH341SER_MAC.ZIP](../master/CH341SER_MAC.ZIP)
 
    This driver download was useful when I encountered this error when uploading the bluetooth code to the Arduino: "avrdude: ser_open(): can't open device "/dev/cu.mydev": Resource busy". If you encounter this, you can download this driver onto your Mac. If you are working on something other than a Mac, you can find its driver here by scrolling down under "Related information": http://www.wch.cn/download/CH341SER_MAC_ZIP.html. If you need more context about my issue, you can refer to this forum: https://arduino.stackexchange.com/questions/37981/osx-upload-error-avrdude-ser-open-cant-open-device-dev-cu-mydev-resou
 
-3) [Fixing_avrdude:stk500_getsync_error.png](../masterFixing_avrdude:stk500_getsync_error.png)
+3) [Fixing_avrdude:stk500_getsync_error.png](../master/Fixing_avrdude:stk500_getsync_error.png)
 
    I kept having an error with the Arduino not uploading the code. If this happens to you, try downloading the driver above and/or following this tip I found on a forum online. If you would like to read the whole thread where I found the screenshot, you can find the forum at this link: https://forum.arduino.cc/index.php?topic=28223.30
 
