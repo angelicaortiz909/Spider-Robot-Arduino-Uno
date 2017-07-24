@@ -57,4 +57,7 @@ Bluetooth to Android configuration guide: http://42bots.com/tutorials/how-to-con
 Spider Robot in Action:
 https://youtu.be/Vyh3SaYLo_0?list=PLuz-GQZtyIjUuq_W8g9vByreekWgkh9nj
 
+
+### Credits:
+
 Credit goes out to [Regis Hsu] (https://github.com/regishsu) for creating the original instructable, as well as [Donnie Plumly] (https://github.com/dplumly) and [Rob Edwards] (https://github.com/robertcedwards) for guiding me through the process of making this robot a reality.
