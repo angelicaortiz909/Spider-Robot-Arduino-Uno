@@ -7,7 +7,7 @@ Below is a breakdown of what each file is used for and how it will help in your 
 
 1) Media folder
 
-   This folder includes images that may be helpful to you as you build the robot. Images in the folder include the JPG of the Fritzings, the robot without Arduino connected, robot with everything connected, the control panel for the robot once bluetooth is enabled, and the setup for just the LED test setup to ensure that power is safely being fed to the Arduino.
+   This folder includes images that may be helpful to you as you build the robot. Images in the folder include images of the Fritzings [with](../master/Media/Spider_with_bluetooth_fritzing.jpg) and [without](../master/Media/Spider_no_bluetooth_fritzing.jpg) bluetooth,  [the robot without Arduino connected](../master/Media/SpiderRobot-base-constructed.jpg), [robot with everything connected d](../master/Media/SpiderRobot-connected-arduino.jpg), the [control panel for the robot once bluetooth is enabled](../master/Media/Bluetooth_Control_Screen_SR.png), and the [setup for just the LED](../master/Media/SpiderRobotLED-setup.jpg) to ensure that power is safely being fed to the Arduino.
 
 2) [CH341SER_MAC.ZIP](../master/CH341SER_MAC.ZIP)
 
