@@ -23,14 +23,14 @@ Below is a breakdown of what each file is used for and how it will help in your 
 
    This is a Fritzing to show what is needed, placement of servos, breadboard layout, etc.
 
-   <img src="https://github.com/angelicaortiz909/Spider-Robot-Arduino-Uno/blob/master/Media/Spider%20Robot-Bluetooth/Spider_no_bluetooth_fritzing.jpg">  
+   <img src="https://github.com/angelicaortiz909/Spider-Robot-Arduino-Uno/blob/master/Media/Spider_no_bluetooth_fritzing.jpg">  
 
 
 6) [Spider_with_bluetooth.fzz](../master/Spider_with_bluetooth.fzz)
 
    This is a Fritzing to show what is needed, placement of servos, breadboard layout, etc. for use with a bluetooth module.
 
-   <img src="https://github.com/angelicaortiz909/Spider-Robot-Arduino-Uno/blob/master/Media/Spider%20Robot-Bluetooth/Spider_with_bluetooth_fritzing.jpg">
+   <img src="https://github.com/angelicaortiz909/Spider-Robot-Arduino-Uno/blob/master/Media/Spider_with_bluetooth_fritzing.jpg">
 
 
 7) [flexitimer2-master.zip](../master/flexitimer2-master.zip)
