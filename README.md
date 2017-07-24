@@ -18,7 +18,7 @@ Below is a breakdown of what each file is used for and how it will help in your 
    This is a Fritzing to show what is needed, placement of servos, breadboard layout, etc.
 
    <img src="https://github.com/angelicaortiz909/Spider-Robot-Arduino-Uno/blob/master/Media/Spider%20Robot-Bluetooth/Spider_no_bluetooth_fritzing.jpg">  
-   
+
 
 4) [Spider_with_bluetooth.fzz](../master/Spider_with_bluetooth.fzz)
 
@@ -52,4 +52,4 @@ Bluetooth to Android configuration guide: http://42bots.com/tutorials/how-to-con
 
 
 Spider Robot in Action:
-https://youtu.be/9xDgPtKHPik?list=PLuz-GQZtyIjUuq_W8g9vByreekWgkh9nj
+https://youtu.be/Vyh3SaYLo_0?list=PLuz-GQZtyIjUuq_W8g9vByreekWgkh9nj
