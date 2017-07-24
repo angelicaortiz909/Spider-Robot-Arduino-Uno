@@ -5,7 +5,7 @@ Hello wandering maker! As you may have found, there are some things that are mis
 
 Below is a breakdown of what each file is used for and how it will help in your construction of the spider robot:
 
-1) Media folder
+1) [Media](https://github.com/angelicaortiz909/Spider-Robot-Arduino-Uno/tree/master/Media)
 
    This folder includes images that may be helpful to you as you build the robot. Images in the folder include images of the Fritzings [with](../master/Media/Spider_with_bluetooth_fritzing.jpg) and [without](../master/Media/Spider_no_bluetooth_fritzing.jpg) bluetooth, [the robot without Arduino connected](../master/Media/SpiderRobot-base-constructed.jpg), [robot with everything connected](../master/Media/SpiderRobot-connected-arduino.jpg), the [control panel for the robot once bluetooth is enabled](../master/Media/Bluetooth_Control_Screen_SR.png), and the [setup for just the LED](../master/Media/SpiderRobotLED-setup.jpg) to ensure that power is safely being fed to the Arduino.
 
